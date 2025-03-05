@@ -1,0 +1,2 @@
+# MetaDataAfuera
+Limpiador de Metadatos
